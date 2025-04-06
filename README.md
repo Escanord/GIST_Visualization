@@ -1,5 +1,3 @@
-
-
 ## In Figures 1–3, each pair compares attention score clustering **with GIST** (Fig. [x]a) and **without GIST** (Fig. [x]b). We also include 10 additional visualizations: **Figures 4–8** show results **with GIST**, and **Figures 9–13** show results **without GIST**.
 
 Figure 1a: Clustering Visualization Using Attention Scores with GIST on Graph 1
